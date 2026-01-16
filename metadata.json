@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel - Enterprise Security Dashboard",
+  "description": "A comprehensive endpoint and network security monitoring platform for office desktops, featuring real-time alerting, AI-powered threat analysis, and fleet-wide visibility.",
+  "requestFramePermissions": []
+}
